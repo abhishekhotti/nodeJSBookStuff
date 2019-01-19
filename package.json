@@ -1,0 +1,11 @@
+{
+    "author": "Abhishek Hotti",
+    "name": "censorText",
+    "version": "0.1.1",
+    "description": "Censors word out of a text file",
+    "main": "censorText",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
