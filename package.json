@@ -1,9 +1,17 @@
 {
     "author": "Abhishek Hotti",
-    "name": "censorText",
+    "name": "censorify",
     "version": "0.1.1",
     "description": "Censors word out of a text file",
     "main": "censorText",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abhishekhotti/nodeJSBookStuff"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
